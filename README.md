@@ -171,3 +171,7 @@ final sameKeyPair = await KeyDerivationService.deriveKeyPairWithSalt(
 * `archive`: код для ZIP и gzip.
 * `uuid`: генерация уникальных UUID для заголовка.
 * `path`: построение выходных путей и выделение расширений.
+
+## AI Integration
+
+For detailed usage patterns and context optimized for AI assistants, please refer to [AI_SDK_GUIDE.md](AI_SDK_GUIDE.md).

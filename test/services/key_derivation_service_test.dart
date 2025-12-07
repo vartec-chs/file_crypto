@@ -1,7 +1,5 @@
-import 'dart:typed_data';
 import 'package:file_crypto/services/key_derivation_service.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:cryptography/cryptography.dart';
 
 void main() {
   group('KeyDerivationService', () {
